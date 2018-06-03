@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="status_bar_color">#FF7C0003</color>
+    <color name="background_color">#ebd8aa</color>
+    <color name="background_white">#fdfdfe</color>
+    <color name="separator_line_color">#780407</color>
+    <color name="text_color">#FF7C0003</color>
+    <color name="header_text_color">#FB8C00</color>
+    <color name="sub_header_text_color">#d6ebd8aa</color>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Riders Tavern</string>
+    <string name="header_text">Riders Tavern</string>
+    <string name="sub_header_text">Because life’s too short.</string>
+    <string name="website_address">www.riderstavern.com</string>
+    <string name="phone_number">+91 9663262419</string>
+    <string name="email_address">riders.tavern@riders.in</string>
+    <string name="address_line1">Riders Tavern</string>
+    <string name="address_line2">H.S.R Sector 03, 18th Main</string>
+    <string name="address_line3">Bengaluru - 560102</string>
+    <string name="address_line4">Karnataka, India</string>
+    <string name="bulldog">Bulldog</string>
+</resources>
